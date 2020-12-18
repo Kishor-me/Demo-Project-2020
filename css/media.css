@@ -1,0 +1,105 @@
+@media (min-width: 2000px) and (max-width : 3000px){
+    .hotelsName{font-size: 17px;}
+}
+@media (min-width: 1600px) and (max-width : 5000px){
+    .tabscontent{width: 1170px;margin: 0 auto;display: table;float: none;}
+    .containercustom{width: 1170px;margin: 0 auto;display: table;float: none;}
+}
+@media only screen and (max-width:991px) {
+    .footlogo img{width: 200px;}
+    .logosocil img{width: 30px;margin: -8px 2px;}
+    .cmnheadcenter p .logosocil .amazon_fire_tv{width: 160px;}
+    .cmnheadcenter p .logosocil .roku{width: 85px;}
+    .cmnheadcenter p .logosocil .DigitalScreens{width: 80px;}
+    .searchBoxhead{width: 420px;}
+    .searchBoxhead input{font-size: 14px;height: 45px;}
+    .searchBoxhead .btn{ height: 45px;width: 45px;}
+    .bannerVideo{height: 480px;}
+    .imageGallery{margin-bottom: 25px;}
+    .formInfodata{margin-bottom: 25px;}
+    .custominfowidth{width: 24.666667%;float: left;}
+    .multiselctdropmain{float: left;max-width: 100%;}
+    .multiselectCustom .container{width: 100%;}
+    .multiselctdropmain .col-md-6.col-sm-6{float: left;width: 50%;}
+}
+@media only screen and (max-width:767px) {
+    .desthead{font-size: 14px;}
+    .statuslabel{width: 100%;border-radius: 19px;}
+    .footlogo{margin-bottom: 21px;}
+    .navbar-toggle .icon-bar{background-color: #fff;}
+    .navbar-toggle{background-color: #00acec;padding: 9px 8px;border-radius: 0px;margin-top: 11px;}
+    .navbar-brand{height: 59px;z-index: 9;position: relative;}
+    .navbar-collapse{background-color: rgb(43, 42, 42);padding-top: 15px;}
+    .navbarset .navbar .navbar-nav a{ padding: 13px 15px;}
+    .modal-dialog{margin: 20px auto 0px;}
+    .navbarsetwrap .userWeb .dropdown .btn{margin: 0px;}
+    .userWeb{position: absolute;top: 5px;right: 95px;}
+    .userWeb .dropdown .dropdown-menu{position: absolute;}
+    .navbarsetwrap .userWeb .dropdown .dropdown-menu{top: 45px;}
+    .navbarsetwrap .userWeb .dropdown .dropdown-menu:after{right: 22px;}
+    .navbarsetwrap {width: 100%;}
+    .multiselectCustom .multiselect-container>li{width: 50%;}
+}
+@media only screen and (max-width:700px) {
+    .footlogo{margin-bottom: 21px;}
+    .logosocil{float: left;width: 31%;min-height: 40px;padding: 0px 15px;margin-bottom: 33px;margin-left: 0px;}
+    .logosocil img{margin: 0 auto !important;}
+    .multiselectCustom .dropdown-backdrop{display: none;}
+    .custominfowidth{width: 32.666667%;}
+}
+@media only screen and (max-width:600px) {
+    .multiselctdropmain .col-md-6.col-sm-6{float: left;width: 100%;}
+    #imageGalleryPopup .modal-dialog{width: 100%;margin: 0px;padding: 12px;}
+    #imageGalleryPopup .modal-body{padding: 8px 8px;}
+    .checkbxwrap{margin-bottom: 15px;}
+}
+@media only screen and (max-width:540px) {
+    .hotelsdetailstabs .nav-tabs li a{margin: 0px;font-size: 14px;padding: 8px 15px;}
+    .hotelsdetailstabs .nav-tabs{float: left;}
+    .multiselectCustom .btn-group{width: 100%;}
+    .multiselectCustom .multiselect.btn{padding: 8px 10px;min-width: 100%;font-size: 14px;}
+    .resplogindata .tooltip{display: none !important;}
+    #login .modal-dialog{width: 100%;padding: 10px;margin: 0px;}
+    .selectlang .dropdown-menu{left: 0;right: auto;}
+    .selectlang .dropdown-menu:after{left: 15px;right: auto;}
+    .bannerVideo{height: 395px;}
+    .lanandloginwrap{width: 100%;text-align: center;display: inline-block;}
+    .resplogindata {float: none;width: auto;margin: 0 auto;display: table;}
+    .sociallinkwrap{margin: 5px 0 5px;}
+    .sociallinks ul li{margin: 0px 5px;}
+    .sociallinks{width: 100%;margin: 5px 0px 0px 0px;text-align: center;}
+    .sociallinks ul{float: none;margin: 0px auto;display: inline-block;}
+    .navbarsetFixed{position: fixed;top: 0;left: 0;}
+    .headersection{background-color: rgb(43, 42, 42);position: relative;background-image: none;}
+    .navbarset .navbar .navbar-header .navbar-brand img{width: 179px;}
+    .scroll_top{bottom: 49px;}
+    .footwrap{padding-bottom: 5px;}
+    .footnote{padding: 10px 10px;}
+    .searchBoxhead{width: 94%;}
+    .btn-cmnbig{padding: 8px 15px;font-size: 15px;}
+    .logosocil{width: 50%;}
+    .footlogo img{width: 170px;}
+    
+}
+@media only screen and (max-width:500px){
+    .hotelsstaticstatus ul li{width: 100%;border-right: 0px;}
+    .starrating ul li{float: left;width: auto;}
+    .starrating{float: left;}
+    .custominfowidth{width: 50%;}
+    .hotelblog{min-height: auto;}
+    .hotelsblogsinfo{margin-bottom: 25px;}
+    .hotelsstaticstatus{text-align: left;}
+    .statuslabel{text-align: center;}
+    .hotelsstaticstatus{padding: 0px 5px;border-radius: 8px;}
+    .statuslabel{border-radius: 8px;}
+}
+@media only screen and (max-width:440px) {
+    .hotelsdetailstabs .nav-tabs li a{margin: 0px;font-size: 13px;padding: 8px 7px;}
+    .userWeb{ right: 81px;}
+    .navbarset .navbar .navbar-header .navbar-brand img{width: 150px;}
+    .multiselectCustom .multiselect-container>li{width: 100%;}
+}
+@media only screen and (max-width:400px) {
+    .custominfowidth{width: 100%;}
+    .hotelblog{margin: 5px 0px;border: 2px solid #565656;}
+}
